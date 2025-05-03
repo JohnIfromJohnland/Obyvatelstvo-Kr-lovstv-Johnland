@@ -9,6 +9,6 @@
 
   <!-- TABULKA -->
  src="https://docs.google.com/spreadsheets/d/1NuaXMdzKOlcK21qGuvNgEUc7RzGHsBkJIK_8eCq5ILo/gviz/tq?tqx=out:html"
-          </iframe>
+
 </body>
 </html>
