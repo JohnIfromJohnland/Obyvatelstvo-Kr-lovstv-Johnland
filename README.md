@@ -1,7 +1,3 @@
- { font-family: sans-serif; background: #f2f2f2; text-align: center; padding: 20px; }
-    iframe { margin-top: 20px; border: none; }
-    h1, h2 { color: #003366; }
-  </style>
 </head>
 <body>
   <h1>Žádost o občanství – Království Johnland</h1>
