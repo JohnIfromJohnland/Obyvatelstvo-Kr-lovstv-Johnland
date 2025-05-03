@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-  <meta charset="UTF-8">
-  <title>Království Johnland – Občanství</title>
-  <style>
-    body { font-family: sans-serif; background: #f2f2f2; text-align: center; padding: 20px; }
+ { font-family: sans-serif; background: #f2f2f2; text-align: center; padding: 20px; }
     iframe { margin-top: 20px; border: none; }
     h1, h2 { color: #003366; }
   </style>
