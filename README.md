@@ -13,13 +13,7 @@
 </body>
 </html>
 
-
-<!DOCTYPE html><html lang="cs">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Janistické Království Janland</title>
-  <style>
     body {
       font-family: Georgia, serif;
       background-color: #f7f5f0;
