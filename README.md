@@ -14,25 +14,7 @@
 </html>
 
 <head>
-    body {
-      font-family: Georgia, serif;
-      background-color: #f7f5f0;
-      color: #333;
-      margin: 0;
-      padding: 2rem;
-    }
-    header {
-      background-color: gold;
-      padding: 1rem;
-      text-align: center;
-    }
-    h1, h2 {
-      color: #800000;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-  </style>
+    
 </head>
 <body>
   <header>
